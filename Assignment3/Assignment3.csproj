@@ -95,6 +95,7 @@
     <Content Include="assets\images\sideplane.gif" />
     <Content Include="css\app.css" />
     <Content Include="css\normalize.css" />
+    <Content Include="index.html" />
     <Content Include="Scripts\constants.js" />
     <Content Include="Scripts\filters\AlphaMapFilter.js" />
     <Content Include="Scripts\filters\AlphaMaskFilter.js" />
